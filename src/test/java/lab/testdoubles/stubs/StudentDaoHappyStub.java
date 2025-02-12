@@ -1,4 +1,4 @@
-package lab.testdoubles;
+package lab.testdoubles.stubs;
 
 import lab.testdoubles.daos.StudentDao;
 import lab.testdoubles.entities.Student;

@@ -1,7 +1,7 @@
 package lab.testdoubles.tests;
 
-import lab.testdoubles.StudentDaoErrorStub;
-import lab.testdoubles.StudentDaoHappyStub;
+import lab.testdoubles.stubs.StudentDaoErrorStub;
+import lab.testdoubles.stubs.StudentDaoHappyStub;
 import lab.testdoubles.daos.StudentDao;
 import lab.testdoubles.entities.FindStudentResponse;
 import lab.testdoubles.services.StudentService;
